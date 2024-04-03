@@ -1,0 +1,11 @@
+name: TaupeGun
+main: fr.sunder.taupegun.main
+version: 1.0
+author: Sunder
+commands:
+  taupegun:
+    description: TaupeGun command executor.
+  t:
+    description: Private chat for moles.
+  reveal:
+    description: mole reveal.
